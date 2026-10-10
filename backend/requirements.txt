@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+psycopg[binary]
+pgvector
+fastembed
+pypdf
+numpy
+pydantic
+python-dotenv
+langchain-groq
+langchain-text-splitters
+langgraph
+mcp
