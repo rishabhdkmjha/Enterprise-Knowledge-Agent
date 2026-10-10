@@ -1,0 +1,6 @@
+[
+  {"question": "How many days of paid annual leave do full-time employees get?", "expected_source": "leave_policy.md", "keywords_any": ["24"]},
+  {"question": "What is the domestic meal allowance per day when travelling?", "expected_source": "expense_policy.md", "keywords_any": ["1,500", "1500"]},
+  {"question": "How many leave days has Vikram Singh taken?", "expected_source": "database", "keywords_any": ["18"]},
+  {"question": "What is the company's stock option vesting schedule?", "expected_source": null, "keywords_any": ["don't have", "not enough", "insufficient"]}
+]
